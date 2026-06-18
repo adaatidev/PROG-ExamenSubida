@@ -49,7 +49,7 @@ public class Voluntario extends EntidadBase {
 	 */
 	@Override
 	public String toString() {
-		return "Voluntario | ID: " + id + " | Nombre: " + nombre + "Años de experiencia: " + experienciaAnos;
+		return "Voluntario | ID: " + id + " | Nombre: " + nombre + " | Años de experiencia: " + experienciaAnos;
 	}
 
 }
