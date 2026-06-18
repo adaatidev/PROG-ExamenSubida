@@ -1,0 +1,11 @@
+id,nombre,email,telefono,experiencia_anos,habilidades
+V001,María García López,maria.garcia@email.com,612345678,3,educación;organización
+V002,Juan Rodríguez Pérez,juan.rodriguez@email.com,687654321,5,programación;coordinación
+V003,Ana Martínez Silva,ana.martinez@email.com,645678901,2,enfermería;cuidados
+V004,Carlos Sánchez López,carlos.sanchez@email.com,678901234,7,carpintería;reparaciones;coordinación
+V005,Elena Fernández García,elena.fernandez@email.com,698765432,1,logística;almacén
+V006,Roberto Díaz Ruiz,roberto.diaz@email.com,654321098,4,educación
+V007,Sandra Moreno Jiménez,sandra.moreno@email.com,676543210,6,psicología;orientación
+V008,Miguel Ángel López Cruz,miguel.lopez@email.com,645678123,2,informática;soporte
+V009,Lucía Gómez Fernández,lucia.gomez@email.com,689012345,3,traducción;idiomas;educación;tutoría
+V010,David Torres Ramírez,david.torres@email.com,612098765,5,gestión;administración

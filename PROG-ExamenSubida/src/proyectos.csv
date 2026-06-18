@@ -1,0 +1,9 @@
+id,nombre,descripcion,fecha_inicio,fecha_fin,habilidades_requeridas,voluntarios_necesarios,prioridad
+P001,Clases de apoyo escolar,Refuerzo educativo para niños de primaria,2026-06-15,2026-08-30,educación;paciencia,3,alta
+P002,Reparación de viviendas,Mejoras en viviendas de familias en situación de vulnerabilidad,2026-06-20,2026-09-15,carpintería;albañilería,5,alta
+P003,Atención sanitaria,Visitas domiciliarias a personas mayores,2026-06-01,2026-12-31,enfermería;empatía,2,media
+P004,Digitalización de archivo,Escaneo y catalogación de documentos históricos,2026-07-01,2026-08-31,informática;organización,4,media
+P005,Traducción de documentos,Traducción de materiales formativos a otros idiomas,2026-06-25,2026-07-31,traducción;idiomas,2,baja
+P006,Gestión administrativa,Apoyo en oficina y coordinación de actividades,2026-06-01,2026-12-31,gestión;administración,2,media
+P007,Logística de almacén,Organización y distribución de materiales donados,2026-06-10,2026-09-30,logística;fuerza_física,3,alta
+P008,Orientación psicosocial,Apoyo emocional y asesoramiento a beneficiarios,2026-06-15,2026-12-31,psicología;escucha_activa,3,media
